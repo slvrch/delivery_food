@@ -36,7 +36,7 @@ Data Quality Issues:
 - Data koordinat tidak valid
 - Anomali jarak delivery
 
-# Opertional Risk Scoring
+# Operational Risk Scoring
 
 Menentukan beberapa faktor operasional yaitu, kepadatan traffic, multiple deliveries, kondisi peak hour, delivery distance, durasi pickup delay, dan kondisi cuaca
 Selanjutnya, setiap fitur diberikan score 1-3 berdasarkan besar pengaruh pada hambatan operasional pengiriman lalu dijumlahkan setiap baris yang total score termasuk kategori risk operational seperti Low Risk, Medium Risk, dan High Risk dengan rentang score risk dari nilai minimum, median dan maksimum.
