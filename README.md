@@ -24,9 +24,7 @@ traffic, workload delivery, dan pola operasional delivery
 # Data Understanding
 
 Dataset Source: Zomato Delivery Operations Analytics
-
 Dataset Overview: 45.584 data order delivery dan 20 fitur operational delivery pada periode tahun 2022
-
 Kategori Fitur: 
 
 - Traffic & lingkungan operasional
@@ -62,8 +60,8 @@ High-Risk Delivery
 
 Insight:
 - High risk memiliki rata-rata delivery duration tertinggi
-- High risk operational paling sering terjadi saat dinner peak congestion ~54%
-- Semi-Urban area memiliki proporsi High Risk order terbesar ~72%
+- High risk operational paling sering terjadi saat dinner peak congestion **~54%**
+- Semi-Urban area memiliki proporsi High Risk order terbesar **~72%**
 
 Delivery Distance & Operational Risk
 
@@ -71,7 +69,7 @@ Delivery Distance & Operational Risk
 
 Insight:
 - Long distance delivery memiliki average delivery duration tertinggi
-- Operational risk meningkat seiring bertambahnya delivery distance, dengan long-distance operations memiliki proporsi High Risk tertinggi ~40%
+- Operational risk meningkat seiring bertambahnya delivery distance, dengan long-distance operations memiliki proporsi High Risk tertinggi **~40%**
 
 # Recommendation
 
