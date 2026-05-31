@@ -24,13 +24,18 @@ traffic, workload delivery, dan pola operasional delivery
 # Data Understanding
 
 Dataset Source: Zomato Delivery Operations Analytics
+
 Dataset Overview: 45.584 data order delivery dan 20 fitur operational delivery pada periode tahun 2022
+
 Kategori Fitur: 
+
 - Traffic & lingkungan operasional
 - Operasional delivery
 - Geolokasi
 - Fitur berbasis waktu
+
 Data Quality Issues:
+
 - Missing values pada fitur operasional
 - Format data waktu tidak konsisten
 - Data koordinat tidak valid
@@ -38,8 +43,8 @@ Data Quality Issues:
 
 # Operational Risk Scoring
 
-Menentukan beberapa faktor operasional yaitu, kepadatan traffic, multiple deliveries, kondisi peak hour, delivery distance, durasi pickup delay, dan kondisi cuaca
-Selanjutnya, setiap fitur diberikan score 1-3 berdasarkan besar pengaruh pada hambatan operasional pengiriman lalu dijumlahkan setiap baris yang total score termasuk kategori risk operational seperti Low Risk, Medium Risk, dan High Risk dengan rentang score risk dari nilai minimum, median dan maksimum.
+Menentukan beberapa faktor operasional yaitu, kepadatan traffic, multiple deliveries, kondisi peak hour, delivery distance, durasi pickup delay, dan kondisi cuaca.
+Selanjutnya, setiap fitur diberikan score 1-3 berdasarkan besar pengaruh pada hambatan operasional pengiriman lalu score setiap baris dijumlahkan dengan total score termasuk kategori risk operational seperti Low Risk, Medium Risk, dan High Risk yang rentang score risk dari nilai minimum, median dan maksimum.
 
 # Analysis
 Traffic Bottleneck Analysis
