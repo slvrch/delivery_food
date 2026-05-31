@@ -25,15 +25,14 @@ traffic, workload delivery, dan pola operasional delivery
 
 Dataset Source: Zomato Delivery Operations Analytics
 Dataset Overview: 45.584 data order delivery dan 20 fitur operational delivery pada periode tahun 2022
-Kategori Fitur: 
 
+Kategori Fitur: 
 - Traffic & lingkungan operasional
 - Operasional delivery
 - Geolokasi
 - Fitur berbasis waktu
 
 Data Quality Issues:
-
 - Missing values pada fitur operasional
 - Format data waktu tidak konsisten
 - Data koordinat tidak valid
