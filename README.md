@@ -39,6 +39,8 @@ Data Quality Issues:
 - Data koordinat tidak valid
 - Anomali jarak delivery
 
+Operational Traffic ipynb: https://colab.research.google.com/drive/1l0wYaYomI8yJRKDRwwljY2EUCDQIiTrL?usp=sharing
+
 # Operational Risk Scoring
 
 Menentukan beberapa faktor operasional yaitu, kepadatan traffic, multiple deliveries, kondisi peak hour, delivery distance, durasi pickup delay, dan kondisi cuaca.
